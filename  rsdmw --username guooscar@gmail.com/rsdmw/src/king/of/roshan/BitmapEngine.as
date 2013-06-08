@@ -9,7 +9,7 @@ package king.of.roshan
 	import flash.utils.getTimer;
 
 	/**
-	 * 
+	 * for MJ
 	 */ 
 	public class BitmapEngine{
 		public static const RAD:Number = Math.PI / -180;
